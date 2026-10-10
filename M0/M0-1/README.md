@@ -77,3 +77,4 @@
 - GCC 编译链：执行 `gcc --version`，确认版本为 11.x
 - Git：执行 `git --version`，正常输出版本号
 - VS Code 远程连接：左下角显示 WSL: Ubuntu-22.04，可正常编辑 Linux 文件
+然后在对应文件夹打开
